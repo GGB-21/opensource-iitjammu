@@ -1,6 +1,6 @@
 About Me :
 ---------- 
-I am Gaurav Bansal, currently doing B.Tech in Comuter Science and Engineering (2nd Year) at IIT Jammu.
+I am Gaurav Bansal, currently doing B.Tech in Computer Science and Engineering (2nd Year) at IIT Jammu.
 
 Skills :
 --------
